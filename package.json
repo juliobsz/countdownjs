@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/mckamey/countdownjs.git"
   },
-  "files": [ "countdown.js", "README.md", "LICENSE.txt" ],
+  "files": [ "countdown.js", "README.md", "LICENSE.txt", "index.d.ts" ],
   "main": "countdown.js",
   "keywords": [
     "countdown",
