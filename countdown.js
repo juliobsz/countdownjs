@@ -1320,7 +1320,6 @@ function() {
 	 * @param {string=} empty a label to use when all units are zero (default: '')
 	 * @param {function(number):string=} formatNumber a function which formats numbers as a string
 	 * @param {function(number,number):string=} formatter a function which formats a number/unit pair as a string
-	 * @deprecated since version 2.6.0
 	 */
 	countdown.setLabels = function(singular, plural, last, delim, empty, formatNumber, formatter) {
 		setFormat({
